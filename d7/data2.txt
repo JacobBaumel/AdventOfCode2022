@@ -1,0 +1,17 @@
+$ cd /
+$ ls
+10 help.txt
+dir d1
+dir d2
+$ cd d1
+$ ls
+50 file.txt
+$ cd ..
+$ cd d2
+$ ls
+dir d3
+30 file2
+20 file3
+$ cd d3
+$ ls
+40 tee
